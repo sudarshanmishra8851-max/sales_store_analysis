@@ -9,8 +9,8 @@ The store doesn't have a clear idea about:-
 1. Which products sells the most,
 2. Customer preferences,
 3. Which items bring in the most profit,and
-4. Where things are going wrong indelivery or operations.
-Because of this, they are missing chances to earnmore,losing customer, and making poor business decisions.
+4. Where things are going wrong in delivery or operations.
+Because of this, they are missing chances to earn more, losing customer, and making poor business decisions.
 
 ## Solution
-They need proper reports and simpleinsights to understand their sales,customer, and product performance better.
+They need proper reports and simple insights to understand their sales,customer, and product performance better.
